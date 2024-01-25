@@ -18,10 +18,9 @@ Dentro da seção de projetos, você encontrará algumas das minhas criações e
 
 Conecte-se comigo em outras plataformas:
 
-* <a href="http://www.linkedin.com/in/leokrodrigues" target="_blank">LinkedIn</a>
-* <a href="https://github.com/Kriegerl1" target="_blank">GitHub</a>
-* <a href="https://www.instagram.com/leo_rodrigues1997/" target="_blank">Instagram</a>
-
+* [LinkedIn](http://www.linkedin.com/in/leokrodrigues)
+* [GitHub](https://github.com/Kriegerl1)
+* [Instagram](https://www.instagram.com/leo_rodrigues1997/)
 
 ## Currículo
 
@@ -40,4 +39,4 @@ Obrigado por visitar meu portfólio! Espero que tenha uma ótima experiência ex
 ---
 
 **Leonardo Rodrigues (Krieger)**  
-Desenvolvedor em Formação | [Site Pessoal](https://kriegerl1.github.io/Portf-lio-Dev) | [GitHub](https://github.com/Kriegerl1)
+Desenvolvedor em Formação | [Site Pessoal](https://LeoRodriguesDev.github.io/Portf-lio-Dev) | [GitHub](https://github.com/Kriegerl1)
