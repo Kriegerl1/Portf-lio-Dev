@@ -78,7 +78,7 @@ function openFullscreenCard(value) {
     let images = '';
     for (let i = 0; i < value.image.length; i++) {
         let arrayDeImages = value.image[i];
-        images += `<img src="../assets/media/images/${arrayDeImages}" alt="imagem dinâmica">
+        images += `<img src="./assets/media/images/${arrayDeImages}" alt="imagem dinâmica">
         `;
     }
 
@@ -127,7 +127,7 @@ function initCards() {
 
         newCard.innerHTML = `
         <div class="image">
-            <img src="../assets/media/images/${value.image[0]}" alt="poster">
+            <img src="./assets/media/images/${value.image[0]}" alt="poster">
         </div>
         <div class="content">
             <div class="info">
